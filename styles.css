@@ -1,8 +1,5 @@
 /*  your css code here. If applicable */
 .ol>li,.ul>li{
-	text-decoraton:italic;
 	font-weight:bold;
-}
-.li1~li{
-	text-decoration:italic;
+	font-style:italic;
 }
