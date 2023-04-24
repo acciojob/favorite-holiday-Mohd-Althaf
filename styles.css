@@ -1,5 +1,5 @@
 /*  your css code here. If applicable */
-.ol>li,.ul>li{
+ol>li, ul>li{
 	font-weight:bold;
 	font-style:italic;
 }
